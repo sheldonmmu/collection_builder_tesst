@@ -1,0 +1,14 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,MMU Special Collections,https://www.youtube.com/watch?v=_HCrJzRUI7E,,TEST OBJECT 1,MMU Library,1990-10-14,Video intro to MMU Special Collections,universities;buildings;campuses;picture postcards,"Moscow, Idaho",53.47213602,-2.239177213,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Video,mpg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll002,NWFA Video,,https://vimeo.com/782851528,TEST OBJECT 2,NFWA,March 1999,Homemade video footage from the North West Film Archive,"video, home video, archive","Manchester, United Kingdom",53.47835231,-2.244792173,public,1,Video,jpg,eng,Public domain,https://creativecommons.org/licenses/by/4.0/deed.en
+coll003,Voisin,,,TEST OBJECT 3,Sarah Bodmin,2024,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.","book, artists books","Manchester, England",53.47213602,-2.239177213,Spec Col,None,image,image/jpeg,eng,Copyright,https://creativecommons.org/licenses/by/4.0/deed.en
+coll004,,,,,,,,,,,,,,,,,,
+coll005,,,,,,,,,,,,,,,,,,
+coll006,,,,,,,,,,,,,,,,,,
+coll007,,,,,,,,,,,,,,,,,,
+coll008,,,,,,,,,,,,,,,,,,
+coll009,,,,,,,,,,,,,,,,,,
+coll010,,,,,,,,,,,,,,,,,,
+coll011,,,,,,,,,,,,,,,,,,
+coll012,,,,,,,,,,,,,,,,,,
+coll013,,,,,,,,,,,,,,,,,,
